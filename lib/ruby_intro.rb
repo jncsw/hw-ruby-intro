@@ -2,6 +2,7 @@
 
 # Part 1
 
+
 def sum arr
   # YOUR CODE HERE
   arr.inject(0, :+)
